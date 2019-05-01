@@ -1,6 +1,6 @@
 # OpenStack scripts
 
-[![made-with-bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)](https://www.gnu.org/software/bash/)
+[![made-with-bash](https://img.shields.io/badge/Made%20with-Bash-1f425f.svg)](https://www.gnu.org/software/bash/) ![OpenStack-scripts](https://img.shields.io/github/issues/spy86/OpenStack-scripts.svg) ![OpenStack-scripts](https://img.shields.io/github/forks/spy86/OpenStack-scripts.svg) ![OpenStack-scripts](https://img.shields.io/github/stars/spy86/OpenStack-scripts.svg) ![OpenStack-scripts](https://img.shields.io/github/license/spy86/OpenStack-scripts.svg) ![OpenStack-scripts](https://img.shields.io/twitter/url/https/github.com/spy86/OpenStack-scripts.svg?style=social)
 
 ## List 
 
